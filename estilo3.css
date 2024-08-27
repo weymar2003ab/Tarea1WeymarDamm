@@ -1,0 +1,66 @@
+*
+{
+    margin: 10px;
+}
+.padre
+{
+    background-color: aqua;
+    padding: 20px;
+}
+.hijo
+{
+    background-color: yellowgreen;
+    padding: 20px;
+}
+.nieto
+{
+    background-color: coral;
+    padding: 20px;
+}
+.bisnieto
+{
+    background-color: yellow;
+    padding: 20px;
+}
+.caja1{
+    width: 900px;
+    height: 700px;
+    background-color: red;
+    padding: 10px;
+}
+.caja2{
+    background-color: purple;
+    border-radius: 100px;
+    width: 220px;
+    padding: 10px;
+}
+.caja3{
+    background-color: green;
+    border-radius: 100px;
+    width: 180px;
+    padding: 10px;
+}
+.caja4{
+    background-color: yellowgreen;
+    border-radius: 100px;
+    width: 140px;
+    padding: 10px;
+}
+.caja5{
+    background-color: yellow;
+    border-radius: 100px;
+    width: 100px;
+    padding: 10px;
+}
+.caja6{
+    background-color: blue;
+    border-radius: 100px;
+    width: 60px;
+    padding: 10px;
+}
+.caja7{
+    background-color: red;
+    border-radius: 100px;
+    padding: 10px;
+    width: 20px;
+}
